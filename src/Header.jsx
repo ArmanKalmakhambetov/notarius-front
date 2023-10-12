@@ -22,7 +22,7 @@ export default function Header () {
                     </div>
                     <div className="col-sm-2 mt-4 location">
                         <h5>c.Кордай, Жамбылская обл.</h5>
-                        <h5>Жибек жолы 26.</h5>
+                        <h5>Жибек жолы 260</h5>
                     </div>
                     <div className="col-sm-2"></div>
                 </div>
