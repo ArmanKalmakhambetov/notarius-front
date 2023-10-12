@@ -8,6 +8,7 @@ import img9 from './img/tussupova-9img.png'
 import img10 from './img/tussupova-10img.png'
 import './App.css';
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 export default function App() {
   return (
       <div className="container">
