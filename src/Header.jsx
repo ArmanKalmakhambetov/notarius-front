@@ -14,7 +14,6 @@ export default function Header () {
                         </p>
                     </div>
                     <div className="col-sm-2 contact-info mt-4">
-                        <h5>+7 (726) 362-13-20</h5>
                         <h5>+7 (702) 592-07-90</h5>
                     </div>
                     <div className="col-sm-2 mt-4 location">
