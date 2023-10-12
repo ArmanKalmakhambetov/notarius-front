@@ -1,6 +1,7 @@
 import file from './img/file.jpg';
 import img1 from './img/tussupova-1img.png'
 import img2 from './img/tussupova-2img.png'
+import img3 from './img/tussupova-3img.png'
 import img5 from './img/tussupova-5img.png'
 import img7 from './img/tussupova-7img.png'
 import img8 from './img/tussupova-8img.png'
@@ -93,7 +94,7 @@ export default function App() {
                       </span>
                     </div>
                     <div className="col-sm-4">
-                      <img src={img2} className="img-fluid" alt="Responsive image"/>
+                      <img src={img3} className="img-fluid" alt="Responsive image"/>
                     </div>
                   </div>
                 </div>
