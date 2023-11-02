@@ -10,6 +10,7 @@ import img10 from './img/tussupova-10img.png'
 import './App.css';
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import ContactForm from "./ContactForm";
 export default function App() {
   return (
       <div className="container">
@@ -213,6 +214,10 @@ export default function App() {
             </iframe>
           </div>
         </div>
+        <div className='d-flex justify-content-center'>
+          <ContactForm/>
+        </div>
+
       </div>
   );
 }
