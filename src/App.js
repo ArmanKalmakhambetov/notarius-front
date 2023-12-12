@@ -39,14 +39,14 @@ export default function App() {
                 </div>
             </div>
             <div className="container-fluid">
-                <h3 className="text-center mt-5 mb-5">Нотариальные услуги</h3>
+                <div className="text-center mt-5 mb-5 fs-3 fw-semibold">Нотариальные услуги</div>
                 <div className="row mt-3 mb-3">
                     <div className="col-lg-6">
                         <div className="container border border-warning">
                             <div className="container p-3">
                                 <div className="row">
                                     <div className="col-lg-8">
-                                        <h5>Договоры</h5>
+                                        <div className='fw-semibold fs-5'>Договоры</div>
                                         <span>Купля-продажа, дарение, мена, ипотека, договор пожизненного содержания
                         с иждивением (рента), соглашение об уплате алиментов, поручительство и др.
                       </span>
@@ -66,7 +66,7 @@ export default function App() {
                                         <img width='170px' height='120px' src={img2} className="img-fluid" alt="alt"/>
                                     </div>
                                     <div className="col-sm-8">
-                                        <h5>Доверенности</h5>
+                                        <div className='fw-semibold fs-5'>Доверенности</div>
                                         <span>
                                             Представительство в суде, управление и распоряжение автомобилем,
                                             доверенность на регистрацию права собственности и др.
@@ -83,7 +83,7 @@ export default function App() {
                             <div className="container p-3">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h5>Завещания</h5>
+                                        <div className='fw-semibold fs-5'>Завещания</div>
                                         <span>
                           Удостоверить завещание, в том числе закрытое, отмена или изменение завещания и др.
                       </span>
@@ -103,7 +103,7 @@ export default function App() {
                                         <img width='170px' height='120px' src={img5} className="img-fluid" alt="alt"/>
                                     </div>
                                     <div className="col-sm-8">
-                                        <h5>Согласия</h5>
+                                        <div className='fw-semibold fs-5'>Согласия</div>
                                         <span>
                         На выезд несовершеннолетних, супруга на продажу, залог имущества и др.
                       </span>
@@ -119,7 +119,7 @@ export default function App() {
                             <div className="container p-3">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h5>Заявления</h5>
+                                        <div className='fw-semibold fs-5'>Заявления</div>
                                         <span>
                           О принятии, выходе из гражданства, об отсутствии брака, на временную регистрацию жильца и др.
                       </span>
@@ -139,7 +139,7 @@ export default function App() {
                                         <img width='170px' height='120px' src={img8} className="img-fluid" alt="alt"/>
                                     </div>
                                     <div className="col-sm-8">
-                                        <h5>Наследство</h5>
+                                        <div className='fw-semibold fs-5'>Наследство</div>
                                         <span>
                           Открытие, принятие, отказ, охрана наследственного имущества, свидетельство о праве на наследство
                       </span>
@@ -155,7 +155,7 @@ export default function App() {
                             <div className="container p-3">
                                 <div className="row">
                                     <div className="col-sm-8">
-                                        <h5>Брачный договор</h5>
+                                        <div className='fw-semibold fs-5'>Брачный договор</div>
                                         <span>
                           Составление текста договора, разработка дополнений и изменений
                       </span>
@@ -176,7 +176,7 @@ export default function App() {
                                         <img width='170px' height='120px' src={img10} className="img-fluid" alt="alt"/>
                                     </div>
                                     <div className="col-sm-8">
-                                        <h5>Копии</h5>
+                                        <div className='fw-semibold fs-5'>Копии</div>
                                         <span>
                           Устава, учредительного договора, справки, диплома и иных документов.
                       </span>
