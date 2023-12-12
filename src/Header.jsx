@@ -25,7 +25,7 @@ export default function Header () {
                             c.Кордай, Жамбылская обл.
                         </div>
                         <div>
-                            ул. Жибек жолы 260
+                            ул. Жибек жолы 189
                         </div>
                     </div>
                     <div className="col-sm-2"></div>
