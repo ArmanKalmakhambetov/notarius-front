@@ -41,7 +41,7 @@ function ContactForm() {
                     <div className='d-flex justify-content-center'>
                         <h5>и мы перезвоним Вам!</h5>
                     </div>
-                    <form className="form" onSubmit={(e) => Submit(e)}>
+                    <form className="form d-flex flex-column align-items-center pb-5" onSubmit={(e) => Submit(e)}>
                         <div className="p-3">
                             <input className="form-control" name="name" placeholder="Имя" type="text" />
                         </div>
