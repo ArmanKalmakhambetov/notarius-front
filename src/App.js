@@ -189,9 +189,9 @@ export default function App() {
             </div>
             <div className="container-fluid p-5">
                 <div className="d-flex justify-content-center mb-3">
-                    <h3>
+                    <div className="fs-3 fw-semibold">
                         Расположение
-                    </h3>
+                    </div>
                 </div>
 
                 <div id="map-container-google-2"
