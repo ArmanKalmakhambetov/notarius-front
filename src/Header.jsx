@@ -22,10 +22,10 @@ export default function Header () {
                     </div>
                     <div className="col-sm-2 mt-4 location fw-semibold fs-5">
                         <div>
-                            c.Кордай, Жамбылская обл.
+                            Жамбылская обл., c.Кордай
                         </div>
                         <div>
-                            ул. Жибек жолы 189
+                            ул. Жибек жолы 185
                         </div>
                     </div>
                     <div className="col-sm-2"></div>
